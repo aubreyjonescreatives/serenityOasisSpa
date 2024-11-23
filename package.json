@@ -1,0 +1,17 @@
+{
+  "name": "serenityoasisspa",
+  "version": "1.0.0",
+  "description": "Discover how to Decompress with Serenity Oasis Spa",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aubrey Jones Creatives",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "gitignore": "^0.7.0",
+    "mysql2": "^3.11.4"
+  }
+}
